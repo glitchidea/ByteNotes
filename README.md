@@ -17,7 +17,7 @@
   2) Ana menüde, istediğiniz işlemi seçin.
   3) Yeni not ekleyebilir, tüm notları görüntüleyebilir, not arayabilir, not silebilir ve not güncelleyebilirsiniz.
   4) Ayarlar menüsünde, veritabanını yedekleyebilir, geri yükleyebilir veya konumunu değiştirebilirsiniz.
-
+(Uygulama şu anlık sadece Türkçedir)
 
 
 # Note Management Application
@@ -39,3 +39,4 @@
   2) Choose the desired operation in the main menu.
   3) You can add new notes, view all notes, search for notes, delete notes, and update notes.
   4) In the settings menu, you can backup, restore the database, or change its location.
+(The application is currently only in Turkish)
