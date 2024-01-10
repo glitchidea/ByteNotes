@@ -3,7 +3,7 @@
   
   Özellikler
   ---
-  *Yeni not ekleyebilme
+  * Yeni not ekleyebilme
   *Tüm notları görüntüleme
   *Notları etiketlendirme ve etiket bazlı filtreleme
   *Notları anahtar kelimeye göre arama
